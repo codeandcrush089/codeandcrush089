@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=codeandcrush089&label=Profile%20Views&color=0e75b6&style=flat)
 # Code Crush
 
 Welcome to **Code Crush** — a professional hub dedicated to advancing skills and delivering solutions in **Data Analytics** and **Cybersecurity**.
