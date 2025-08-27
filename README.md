@@ -40,7 +40,7 @@ Whether you're looking to learn, grow, or implement advanced analytics and secur
 * **Instagram:** [@codeandcrush](https://www.instagram.com/codeandcrush/)
 * **X (Twitter):** [@codeandcrush](https://x.com/codeandcrush)
 * **Blog:** [codecrush.blogspot.com](https://codecrush.blogspot.com)
-* **Email:** [hello.codecrush089@gmail.com](mailto:hello.codecrush089@gmail.com)
+* **Email:** [codecrush089@gmail.com](mailto:hello.codecrush089@gmail.com)
 ---
 
 Built with professionalism and dedication by the **Code Crush** team.
