@@ -36,11 +36,11 @@ Whether you're looking to learn, grow, or implement advanced analytics and secur
 
 ## Connect With Us
 
-* **YouTube:** [Your YouTube Link](#)
-* **Instagram:** [Your Instagram Link](#)
-* **X (Twitter):** [Your X Link](#)
-* **Blog:** [https://codecrush.blogspot.com](https://codecrush.blogspot.com)
-* **Email:** [hello.codecrush@example.com](mailto:hello.codecrush@example.com)
+* **YouTube:** [@codeandcrush](https://www.youtube.com/@codeandcrush)
+* **Instagram:** [@codeandcrush](https://www.instagram.com/codeandcrush/)
+* **X (Twitter):** [@codeandcrush](https://x.com/codeandcrush)
+* **Blog:** [codecrush.blogspot.com](https://codecrush.blogspot.com)
+* **Email:** [hello.codecrush089@gmail.com](mailto:hello.codecrush089@gmail.com)
 ---
 
 Built with professionalism and dedication by the **Code Crush** team.
