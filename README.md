@@ -7,14 +7,13 @@
 **Learn • Build • Grow**  
 _A Professional Hub for Programmers, Developers & Tech Enthusiasts_
 
-[![GitHub stars](https://img.shields.io/github/stars/CodeCrush?style=for-the-badge&logo=github)](https://github.com/codecrush)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codeandcrush)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeandcrush)
 [![X (Twitter)](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codeandcrush)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/codecrush)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/CodeCrush)
-[![Blogger](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://codecrush.blogspot.com)
-[![Email](https://img.shields.io/badge/Email-hello.codecrush089@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.codecrush089@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/codeandcrush/)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Code-Crush-1)
+[![Blogger](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://codecrush089.blogspot.com)
+[![Email](https://img.shields.io/badge/Email-codecrush089@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codecrush089@gmail.com)
 
 </div>
 
