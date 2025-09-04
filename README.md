@@ -1,8 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=codeandcrush089&label=Profile%20Views&color=0e75b6&style=flat)
 
-<div align="center">
-<h1> Code Crush </h1>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Crush-Learn%20%26%20Build-FF5722?style=for-the-badge&logo=python&logoColor=white" alt="Code Crush" />
+</p>
+
+<h1 align="center">🚀 Code Crush – Your Gateway to Data & AI Mastery</h1>
+
+<p align="center">
+  Learn • Build • Grow
+</p>
+
 
 Welcome to **Code Crush** — a professional hub dedicated to advancing skills and delivering solutions in **Data Analytics** .
 
