@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Code Crush – Master Data & AI Like a Pro
+# 🚀 Code Crush – Master Data & AI Like a Pro 
 
 **Learn • Build • Grow**  
 _A Professional Hub for Programmers, Developers & Tech Enthusiasts_
