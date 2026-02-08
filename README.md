@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=codeandcrush089&label=Profile%20Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=codeandcrush089&label=Profile%20Views&color=0e75b6&style=flat) 
 
 <div align="center">
 
